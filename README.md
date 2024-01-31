@@ -7,7 +7,7 @@ My analytics portfolio
 
 # [Project 3: Excel - Sales Performance Dashboard]
 
-# [Project 4: SQL - Data Cleaning]
+# [Project 4: SQL - AirBnB Data Analysis]
 
 # [Project 5: SQL - Data Exploration]
 
