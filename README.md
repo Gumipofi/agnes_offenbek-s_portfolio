@@ -1,4 +1,4 @@
-# agnes_offenbek_portfolio
+# agnes_offenbek-s_portfolio
 My analytics portfolio
 
 # [Project 1: Excel - LOOKUP, INDEX, MATCH, SUMIFS]
