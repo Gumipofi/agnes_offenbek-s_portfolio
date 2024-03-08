@@ -12,3 +12,5 @@ My analytics portfolio
 # [Project 5: SQL - Data Exploration]
 
 # [Project 6: Python]
+
+# [Project 7: Power BI]
